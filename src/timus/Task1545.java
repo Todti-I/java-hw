@@ -21,7 +21,6 @@ public class Task1545 {
         String hieroglyphStart = scanner.nextLine();
         scanner.close();
 
-
         List<String> searchingHieroglyphs = hieroglyphs.stream()
                 .filter(h -> h.startsWith(hieroglyphStart))
                 .collect(Collectors.toList());
