@@ -2,6 +2,8 @@ package timus;
 
 import java.util.Scanner;
 
+// https://acm.timus.ru/problem.aspx?space=1&num=1787
+
 public class Task1787 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
