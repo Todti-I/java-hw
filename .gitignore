@@ -24,3 +24,6 @@ hs_err_pid*
 
 .idea
 out
+
+**/lw7/output.txt
+**/lw7/person.bin
